@@ -41,24 +41,23 @@ It focuses on managing bookstore data and analyzing books, customers, and orders
 - Average book prices by genre
 - Frequent orders and customer spending
 - Remaining stock analysis
-
-📸 Project Screenshots
-1. Database Design and Table Creation
+- 
+## 📸 Project Screenshots
+### 1. Database Design and Table Creation
 Shows the Books, Customers, and Orders table definitions.
-"Database Design" (Screenshots/database-design.jpg)
+![Database Design](database-design.jpeg)
 
-2. Data Import and SQL Queries
+### 2. Data Import and SQL Queries
 Shows CSV data import and SQL queries for retrieving and filtering records.
-"Data Import and SQL Queries" (Screenshots/data-import-queries.jpg)
+![Data Import and SQL Queries](data-import-queries.jpeg)
 
-3. Advanced SQL Analysis
+### 3. Advanced SQL Analysis
 Shows analytical queries for revenue, book sales, average prices, and customer spending.
-"Advanced SQL Analysis" (Screenshots/advanced-sql-analysis.jpg)
+![Advanced SQL Analysis](advanced-sql-analysis.jpeg)
 
-4. Stock Analysis
+### 4. Stock Analysis
 Shows the query used to compare book stock with ordered quantities.
-"Stock Analysis" (Screenshots/stock-analysis.jpg)
-
+![Stock Analysis](stock-analysis.jpeg)
 📚 Key Learnings
 
 - Practiced SQL query writing and database design.
