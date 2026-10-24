@@ -1,76 +1,76 @@
-📚 Bookstore Management System | SQL Server Project
-
-🎬 Project Demo Video
-
-"▶️ Watch the Bookstore Management System Demo" (./Bookstore_SQL_Project_FullScreen.mp4)
+📚 Store Record Management System | SQL Server
+Created by: Shivam Singh
+Project Type: SQL Portfolio Project
+Target Roles: MIS Executive | Data Analyst
 
 📌 Project Overview
-
-The Bookstore Management System is a SQL project developed using Microsoft SQL Server. It focuses on managing bookstore data and analyzing books, customers, and orders using SQL queries.
-
-This project demonstrates practical SQL skills for MIS Executive, MIS Analyst, and Data Analyst roles.
+The Store Record Management System is a SQL project developed using Microsoft SQL Server Management Studio (SSMS). 
+It focuses on managing bookstore data and analyzing books, customers, and orders using SQL queries.
 
 🎯 Project Objectives
-
-- Organize bookstore data using relational database tables.
+- Create and manage relational database tables.
+- Import CSV datasets into SQL Server.
 - Retrieve and filter records using SQL queries.
-- Combine data from multiple tables.
-- Analyze book orders and customer activity.
-- Summarize sales and revenue data where applicable.
-- Practice database management and data analysis.
+- Combine multiple tables using JOINs.
+- Analyze book orders, customer activity, and sales.
+- Review book stock against ordered quantities.
 
 🛠️ Tools & Technologies
-
 - Microsoft SQL Server
 - SQL Server Management Studio (SSMS)
 - SQL
-- CSV data files
+- CSV datasets
 
 🗂️ Database Tables
-
-- Books: Book details and stock information.
+- Books: Book details, genre, price, and stock.
 - Customers: Customer records.
-- Orders: Book order and transaction details.
+- Orders: Order details and transaction information.
 
 💻 SQL Concepts Used
-
 - SELECT, WHERE, ORDER BY, DISTINCT
-- JOINs
+- INNER JOIN and LEFT JOIN
 - GROUP BY and HAVING
-- Aggregate functions such as SUM(), AVG(), and COUNT()
+- Aggregate functions: SUM(), AVG(), COUNT()
 - Primary Keys and Foreign Keys
+- CSV data import
 
 📊 Business Analysis
+- Book sales and order quantities
+- Customer order activity
+- Revenue analysis
+- Average book prices by genre
+- Frequent orders and customer spending
+- Remaining stock analysis
 
-The project focuses on questions such as:
+📸 Project Screenshots
+1. Database Design and Table Creation
+Shows the Books, Customers, and Orders table definitions.
+"Database Design" (Screenshots/database-design.jpg)
 
-- Which books are ordered most frequently?
-- Which customers place orders?
-- How can order and sales data be summarized?
-- What is the total revenue, when price and quantity data are available?
-- How can book stock be reviewed against order quantities?
+2. Data Import and SQL Queries
+Shows CSV data import and SQL queries for retrieving and filtering records.
+"Data Import and SQL Queries" (Screenshots/data-import-queries.jpg)
 
-📁 Project Files
+3. Advanced SQL Analysis
+Shows analytical queries for revenue, book sales, average prices, and customer spending.
+"Advanced SQL Analysis" (Screenshots/advanced-sql-analysis.jpg)
 
-The repository may include:
+4. Stock Analysis
+Shows the query used to compare book stock with ordered quantities.
+"Stock Analysis" (Screenshots/stock-analysis.jpg)
 
-- SQL query files
-- Book, customer, and order datasets
-- Screenshots of SQL queries and results
-- Project documentation
+📚 Key Learnings
 
-📚 Key Learning
-
-This project helped me practice SQL querying, relational database concepts, joining multiple tables, and analyzing business data.
+- Practiced SQL query writing and database design.
+- Used JOINs to combine related tables.
+- Practiced data aggregation and business analysis.
+- Improved relational database and data analysis skills.
 
 💼 Career Focus
 
-I am building hands-on projects to strengthen my skills and pursue opportunities as an MIS Executive, MIS Analyst, or Data Analyst.
+Building practical projects for MIS Executive, MIS Analyst, and Data Analyst roles.
 
-🔗 Repository
-
-GitHub: Add your repository URL here.
 
 ---
 
-This is a learning and portfolio project. Analysis results depend on the dataset and SQL queries included in the repository.
+This is a learning and portfolio project. Results depend on the actual dataset and SQL queries in the repository.
